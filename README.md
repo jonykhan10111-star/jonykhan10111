@@ -7,10 +7,10 @@ Welcome to my digital workshop! I am a passionate and detail-oriented **JavaScri
 ---
 
 ### 🗺️ About Me
--🔭 **Current Focus:** Advanced Object-Oriented JavaScript (OOP), Cyber-Defense Patterns, and Performance Optimization.
--🎯 **My Principle:** Writing hand-crafted, deeply understood code with zero copy-pasting.
--🔒 **Core Expertise:** Safe Memory layouts, prototype management, semantic structures, and UI consistency.
--⚡**Fun Fact:** I love breaking down complex systems into simple, micro-modular blocks.
+- 🔭 **Current Focus:** Advanced Object-Oriented JavaScript (OOP), Cyber-Defense Patterns, and Performance Optimization.
+- 🎯 **My Principle:** Writing hand-crafted, deeply understood code with zero copy-pasting.
+- 🔒 **Core Expertise:** Safe Memory layouts, prototype management, semantic structures, and UI consistency.
+- ⚡**Fun Fact:** I love breaking down complex systems into simple, micro-modular blocks.
 
 ---
 ### 🛠️ Technical Arsenal (My Stack)
