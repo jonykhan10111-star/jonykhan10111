@@ -43,4 +43,4 @@ Let's build something exceptional together! Whether you want to discuss advanced
 💼 **GitHub Portfolio:** You are already looking at my curated projects below!
 
 ---
-<p align="center"><i>Thank you for visiting! Drop a 🌠 on my repositories if you find my engineering work useful</i></p>
+<p align="center"><i>Thank you for visiting! Drop a ⭐ on my repositories if you find my engineering work useful</i></p>
